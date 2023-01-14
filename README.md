@@ -1,7 +1,4 @@
 # Frontend Assesment
-<p align="center">
-  Build with Vite, ReactJS, NodeJS
-</p>
 
 <p align="center">
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
