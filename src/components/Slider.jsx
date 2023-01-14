@@ -3,11 +3,11 @@ import HeroSlider, { Overlay, Slide, Nav } from "hero-slider";
 
 const slider = [
   {
-    url: "../../public/images/slider-0.jpg",
+    url: "https://ik.imagekit.io/rosfandy/slider/slider-0",
     desc: "this is a place where technology & creativity fused into digital chemistry",
   },
   {
-    url: "../../public/images/slider-1.jpg",
+    url: "https://ik.imagekit.io/rosfandy/slider/slider-1",
     desc: "we don't have the best but we have the greatest team",
   },
 ];
