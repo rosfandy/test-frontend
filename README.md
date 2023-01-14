@@ -1,8 +1,10 @@
 # Frontend Assesment
 Build with NodeJS, ReactJS, Vite
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=vite&perline=1"/>
+</p>
 
-[![React](https://skillicons.dev/icons?i=react&perline=1)](https://skillicons.dev)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs&perline=1)](https://skillicons.dev)
-[![Vite](https://skillicons.dev/icons?i=vite&perline=1)](https://skillicons.dev)
 
